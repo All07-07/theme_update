@@ -13,3 +13,4 @@
 <?php do_action('theme_critical_css');?>
 <?php wp_head(); ?>
 </head>
+</html>
